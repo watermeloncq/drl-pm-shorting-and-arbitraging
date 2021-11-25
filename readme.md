@@ -41,7 +41,7 @@ We detail the principle of calculating assets weights when shorting in our paper
 # Development Environment
 **Please take a note, before runing this code, you should "git clone https://github.com/wassname/DeepRL.git", and other details could be found at the beginning of pytorch-deeprl-DDPG-arbitrage.ipynb
 
-**If you have trouble cloning DeepRL.git, you could download it from [baidu pan (password is 29w7)]() or [google drive](https://drive.google.com/drive/folders/1REMz3SIV85ZmtE0MvD3D-aqaYBHMbGMo?usp=sharing)
+**If you have trouble cloning DeepRL.git, you could download it from [baidu pan (password is 29w7)](https://pan.baidu.com/s/1FLAkYlmrJoAYYwpX43bCVw) or [google drive](https://drive.google.com/drive/folders/1REMz3SIV85ZmtE0MvD3D-aqaYBHMbGMo?usp=sharing)
 
 - Operation System -> Ubuntu 18.04, Python version = 3.6, CUDA version = 10.2, pytorch version = 1.5.1
 - All the packages that are necessary can be found in the directory: “./requirements”.
